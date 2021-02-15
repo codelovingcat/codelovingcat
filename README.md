@@ -33,7 +33,7 @@ I'm working as a Software Developer
  ## 📫 How to reach me
 You can find and get in touch with me on below accounts!
 
-<img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="20" height="20"> [Linkedin ](https://www.linkedin.com/in/uremsancaktutan/)   <img src="https://user-images.githubusercontent.com/36550960/107999667-a0783a00-6ff0-11eb-82a7-0b493a5e847f.png" width="20" height="20"> [Twitter](https://twitter.com/uremifelse) 
+<img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="15" height="15"> [Linkedin ](https://www.linkedin.com/in/uremsancaktutan/)   <img src="https://user-images.githubusercontent.com/36550960/107999667-a0783a00-6ff0-11eb-82a7-0b493a5e847f.png" width="15" height="15"> [Twitter](https://twitter.com/uremifelse) 
 
 <!--[]
 **codelovingcat/codelovingcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
