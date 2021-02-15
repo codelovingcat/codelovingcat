@@ -1,5 +1,6 @@
 ### Hi there I am Ürem👋
-[![kalp](https://user-images.githubusercontent.com/36550960/107892909-b6262a80-6f30-11eb-9778-2a6d44cd4697.png)](url)
+[![Uploading robokop.gif…]()
+](url)
 <!--[]
 **codelovingcat/codelovingcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
