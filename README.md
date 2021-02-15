@@ -1,9 +1,9 @@
 # Hi there I am Ürem👋 🎯
-
+## I am Ürem from Turkey. I live in İstanbul is a historical and very beautiful city.  🚀 👨🏾‍🚀  👩🏼‍💻
 
 ![robokop](https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif)
 
-## I am Ürem from Turkey. I live in İstanbul is a historical and very beautiful city.  🚀 👨🏾‍🚀  👩🏼‍💻
+
 <!--[]
 **codelovingcat/codelovingcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
