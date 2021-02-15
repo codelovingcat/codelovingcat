@@ -3,7 +3,7 @@
 I have been working as a Software Developer for about 3 years.
 I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍💻
 
-        ![robokop](https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif)
+![robokop](https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif)
 
 
 <!--[]
