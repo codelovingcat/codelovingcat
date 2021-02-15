@@ -1,6 +1,5 @@
-# 👋 Hi there 
+# 👋 Hi there.
 ### 🎯 I am Ürem from Turkey. I live in İstanbul is a historical and very beautiful city.
-I Urea from Turkey. I live in Istanbul, a historical and beautiful city.
 I have been working as a Software Developer for about 3 years.
 I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍💻
 
