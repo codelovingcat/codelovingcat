@@ -32,6 +32,7 @@ I'm working as a Software Developer
 
  ## 📫 How to reach me
 You can find and get in touch with me on below accounts!
+
 <img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="10" height="10"> [Linkedin ](https://www.linkedin.com/in/uremsancaktutan/)   <img src="https://user-images.githubusercontent.com/36550960/107999667-a0783a00-6ff0-11eb-82a7-0b493a5e847f.png" width="10" height="10"> [Twitter](https://twitter.com/uremifelse) 
 
 <!--[]
