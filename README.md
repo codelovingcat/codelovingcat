@@ -9,7 +9,7 @@ I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍�
   <img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="400" height="300 alt="Sublime's custom image"/> 
 </p> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
        
 ## 💼 Job
 
