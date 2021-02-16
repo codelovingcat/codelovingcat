@@ -3,12 +3,11 @@
 I have been working as a Software Developer for about 3 years.
 I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍💻
 
-
- 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
-       
-<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="400" height="300 alt="Sublime's custom image"/>
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="400" height="300 alt="Sublime's custom image"/> 
+</p>
 
        
 ## 💼 Job
