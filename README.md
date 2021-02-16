@@ -20,9 +20,8 @@ I'm working as a Software Developer
 
 ## 🔭 I'm currently working on
   
-<p >
-  <img src="https://user-images.githubusercontent.com/36550960/108058357-99871100-705c-11eb-9947-3148a544e61c.gif?raw=true"  width="300" height="200  image"/> 
-</p> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
+ <img src="https://user-images.githubusercontent.com/36550960/108058357-99871100-705c-11eb-9947-3148a544e61c.gif?raw=true"  width="300" height="200  image"/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
+ 
 I work on e-commerce systems.
 
 
