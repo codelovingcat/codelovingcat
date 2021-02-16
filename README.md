@@ -3,15 +3,7 @@
 I have been working as a Software Developer for about 3 years.
 I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍💻
 
- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="400" height="300 alt="Sublime's custom image"/> 
-</p>
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="400" height="300 image"/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
 
        
 ## 💼 Job
@@ -20,7 +12,7 @@ I'm working as a Software Developer
 
 ## 🔭 I'm currently working on
   
- <img src="https://user-images.githubusercontent.com/36550960/108058357-99871100-705c-11eb-9947-3148a544e61c.gif?raw=true"  width="300" height="200  image"/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
+ <img src="https://user-images.githubusercontent.com/36550960/108058357-99871100-705c-11eb-9947-3148a544e61c.gif?raw=true"  width="300" height="200  image"/> 
  
 I work on e-commerce systems.
 
