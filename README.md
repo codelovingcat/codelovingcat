@@ -1,10 +1,11 @@
-# 👋 Hi there.
+# 👋 Hi there. 
 ### 🎯 I am Ürem from Turkey. I live in İstanbul is a historical and very beautiful city.
 I have been working as a Software Developer for about 3 years.
 I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍💻
 
-<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif" width="400" height="300">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="400" height="300 alt="Sublime's custom image"/>
+</p>
 
 ## 💼 Job
 
@@ -12,8 +13,9 @@ I'm working as a Software Developer
 
 ## 🔭 I'm currently working on
   
-<img src="https://user-images.githubusercontent.com/36550960/107998321-8be67280-6fed-11eb-9584-b4151ef07e67.png" width="100" height="50"> I work on e-commerce systems.
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36550960/108057055-c33f3880-705a-11eb-854b-ebb94736699c.gif?raw=true"  width="400" height="250  image"/>  I work on e-commerce systems.
+</p>
 
 
 
