@@ -39,8 +39,15 @@ You can find and get in touch with me on below accounts!
 
 <img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="15" height="15"> [Linkedin ](https://www.linkedin.com/in/uremsancaktutan/)   <img src="https://user-images.githubusercontent.com/36550960/107999667-a0783a00-6ff0-11eb-82a7-0b493a5e847f.png" width="15" height="15"> [Twitter](https://twitter.com/uremifelse) 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/36550960/108242951-34174b00-7156-11eb-8d08-851cb10ff56c.gif?raw=true"  width="300" height="300  image"/> 
+</p>
+
+
+
 <!--[]
 **codelovingcat/codelovingcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
