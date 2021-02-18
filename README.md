@@ -39,6 +39,15 @@ You can find and get in touch with me on below accounts!
 
 <img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="15" height="15"> [Linkedin ](https://www.linkedin.com/in/uremsancaktutan/)   <img src="https://user-images.githubusercontent.com/36550960/107999667-a0783a00-6ff0-11eb-82a7-0b493a5e847f.png" width="15" height="15"> [Twitter](https://twitter.com/uremifelse) 
 
+<a href="https://github.com/codelovingcat">
+        <img alt="github" src="https://camo.githubusercontent.com/e5ad1e0feaf68408b454034b196df944f1c62f214655c5285002aaa3acfa03d4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f756e643366696e65642d763031643f7374796c653d736f6369616c" data-canonical-src="https://github/codelovingcat?tab=followers?style=social" style="max-width:100%;">
+    </a>
+
+
+<a href="https://linkedin.com/in/uremsancaktutan" rel="nofollow">
+        <img alt="linkedin" src="https://camo.githubusercontent.com/adc607d5dbbe1c9ae137b3d843d842c1e49e07548fac339b01fe9c2b09fa0c65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d677265793f6c6f676f3d6c696e6b6564696e267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" style="max-width:100%;">
+    </a>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/36550960/108242951-34174b00-7156-11eb-8d08-851cb10ff56c.gif?raw=true"  width="300" height="300  image"/> 
 </p>
