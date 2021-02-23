@@ -18,6 +18,11 @@ I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍�
 
 I'm working as a Software Developer
 
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/ <CARD_TYPE> /? username = codelovingcat & theme = EjderyaFramework" />
+
+
+
+
 ## 🔭 I'm currently working on
   
  <img src="https://user-images.githubusercontent.com/36550960/108058357-99871100-705c-11eb-9947-3148a544e61c.gif?raw=true"  width="300" height="200  image"/> 
