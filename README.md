@@ -14,9 +14,15 @@ I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍�
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs)
 
        
-## 💼 Job
+
+<p align="center">
+  
+ ## 💼 Job
 
 I'm working as a Software Developer
+</p> 
+
+
 
 
 
