@@ -105,20 +105,18 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin&hide_border=true" alt="GitHub Streak" width="300"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin&hide_border=true" alt="GitHub Streak" width="450"/>
     </td>
-  </tr>
- <tr>
-    <td colspan="2" align="center">
-     <p>
-
-|![👀 Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Visitors&color=ff69b4&style=flat-square)| 
+   <td colspan="2" align="center">
+       <p>
+ 
 |![👀 Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Visitors&color=ff69b4&style=flat-square)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=codelovingcat)||
 
 </p>
     </td>
   </tr>
+ 
 </table>
 
 
