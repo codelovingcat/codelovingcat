@@ -82,16 +82,12 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 ##
 
 🚀 Highlights
-- Professional: Software Developer & Test Automation Engineer  
-- Focus: CMS-based projects, test automation, and AI-powered features  
-- Approach: Clean code, pragmatic design, automated quality
+***
 
 ##
 
 📦 Projects (placeholders — will update later)
-- CMS Project (example) — https://github.com/codelovingcat/cms-project
-- Automation Suite (example) — https://github.com/codelovingcat/automation-suite
-- AI Experiments (example) — https://github.com/codelovingcat/ai-experiments
+***
 
 ##
 
