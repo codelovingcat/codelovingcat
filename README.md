@@ -26,9 +26,9 @@ You can find and get in touch with me on below accounts!
 
 <p>
  <img src="https://user-images.githubusercontent.com/36550960/107997731-2e055b00-6fec-11eb-949f-030fce54fa80.png" alt="DotNet" width="40" height="40">&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png" alt="" width="40" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png" width="40" height="40" alt="CSharp">  
 <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png" width="40" height="40" alt="CSharp">  <img src="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png" width="40" height="40">&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 
