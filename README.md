@@ -97,10 +97,10 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=tokyonight&hide_border=true" alt="Ürem's GitHub Stats" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=tokyonight&hide_border=true" alt="Ürem's GitHub Stats" width="450"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
     </td>
   </tr>
   <tr>
@@ -118,10 +118,6 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=✨ Profile Views ✨&color=ff69b4&style=flat" alt="Profile Views"/>
- 
-</p>
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
