@@ -110,7 +110,7 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
    <td align="center">
        <p>
  
-|![👀 Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Visitors&color=ff69b4&style=flat-square)|
+<!--|![👀 Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Visitors&color=ff69b4&style=flat-square)|-->
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=codelovingcat)||
 
 </p>
