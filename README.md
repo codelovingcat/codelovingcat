@@ -9,20 +9,17 @@
 ##
 
 <h3>🌐 Connect with me:</h3>
- ## 📫 How to reach me
+ 📫 How to reach me
 You can find and get in touch with me on below accounts!
 
 <img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="15" height="15"> [Linkedin ](https://www.linkedin.com/in/uremsancaktutan/)   <img src="https://user-images.githubusercontent.com/36550960/107999667-a0783a00-6ff0-11eb-82a7-0b493a5e847f.png" width="15" height="15"> [Twitter](https://twitter.com/uremifelse) 
 
 <p>
-<a href="https://www.linkedin.com/in/urem/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
-<a href="https://www.instagram.com/urem.codes/" target="blank"><img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" /></a>&nbsp; 
+ 
+<a href="https://uremsancaktutan.medium.com" target="blank"><img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:40px; width:40px" /></a>&nbsp; 
 &nbsp; 
-<a href="https://medium.com/@urem" target="blank"><img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:40px; width:40px" /></a>&nbsp; 
-&nbsp; 
-<a href="https://stackoverflow.com/users/urem" target="blank"><img alt="Stack Overflow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" style="height:40px; width:40px" /></a>&nbsp; 
-&nbsp; 
-<a href="https://www.hackerrank.com/urem" target="blank"><img alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px" /></a>
+ 
+<a href="https://www.hackerrank.com/urem" target="blank"><img alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" style="height:40px; width:40px" /></a>
 </p> 
 
 ##
