@@ -1,6 +1,7 @@
-<h2> Hi there, I'm Ürem 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Ürem <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif" width="200" height="150" alt="Sublime's custom image"/>
 
 <p><em>🎯 I am Ürem from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
 I have been working as a <b>Software Developer</b> for about 3 years.  
@@ -59,7 +60,7 @@ I focus on learning while developing real-world projects 🚀👩🏼‍💻</em
 <p>I have been working as a Full Stack Software Developer for about 4+ years.</p>
 I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
 
-<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif" width="200" height="150" alt="Sublime's custom image" />
+
 
 
 
