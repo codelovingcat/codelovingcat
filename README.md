@@ -46,7 +46,7 @@ You can find and get in touch with me on below accounts!
 ## 
 <h3>🧩 Databases & Tools:</h3>
 <img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">
-< img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 
 
 ## 💼 Job
