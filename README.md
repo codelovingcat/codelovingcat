@@ -95,8 +95,7 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Ürem's github stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/codelovingcat/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/codelovingcat/github-readme-stats)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin)
-
+|[![Ürem's github stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/codelovingcat/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/codelovingcat/github-readme-stats)|
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=codelovingcat)||
 
 ![Ürem's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=tokyonight)
