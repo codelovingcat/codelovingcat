@@ -96,3 +96,76 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+******************************************************************
+
+
+
+
+
+
+# Hi there 👋
+🎯 I am Ürem from Turkey. I live in İstanbul — a historical and very beautiful city.  
+I have been working as a Software Developer for about 3 years.  
+I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
+
+---
+
+✨ About Me
+A passionate and futuristic developer who blends creativity with logic.  
+Confident, analytical, yet creative — I balance logic with intuition to build clean, efficient, and delightful software.  
+Currently exploring CMS development, AI applications, and automation testing.  
+Loves yoga 🧘‍♀️, cats 🐾, and Rize tea 🫖.
+
+---
+
+💻 Tech Stack
+
+### 💫 Languages & Front-End
+C#, JavaScript, Python, jQuery, CSS, React
+
+### 🗄️ Back-End & Frameworks
+.NET, .NET Core, .NET MVC, Entity Framework, OOP, Microservices, Design Patterns
+
+### 🧰 Databases & Tools
+SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
+
+---
+
+🚀 Highlights
+- Professional: Software Developer & Test Automation Engineer  
+- Focus: CMS-based projects, test automation, and AI-powered features  
+- Approach: Clean code, pragmatic design, automated quality
+
+---
+
+📦 Projects (placeholders — will update later)
+- CMS Project (example) — https://github.com/codelovingcat/cms-project
+- Automation Suite (example) — https://github.com/codelovingcat/automation-suite
+- AI Experiments (example) — https://github.com/codelovingcat/ai-experiments
+
+---
+
+📈 GitHub Stats (colorful & dynamic)
+
+![Ürem's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin)
+
+Commit activity (visual):
+![Commit Activity Graph](https://activity-graph.herokuapp.com/graph?username=codelovingcat&theme=react-dark)
+
+---
+
+🌈 Fun Facts
+“Code with logic, dream with imagination, and always stay curious.” ✨  
+- 🧘‍♀️ Yoga keeps my focus and balance  
+- 🚀 I love building futuristic ideas and experimenting with new tech  
+- 🫖 Big fan of Rize tea — my favorite coding fuel  
+- 🐱 Cat lover and tiny code muse
+
+---
+
+📫 Let’s connect
+Thanks for stopping by! Let’s connect and build something awesome together. 🌟
+
+<!-- Tip: Replace placeholder project links with real repos. You can also change themes in the stat images (tokyonight, radical, catppuccin) to match your preferred palette. -->
