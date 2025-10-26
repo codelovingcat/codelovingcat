@@ -18,7 +18,7 @@ You can find and get in touch with me on below accounts!
 <a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" style="height:30px; width:30px" /></a>
 
 
-<img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="30" height="30"> </a>
+<a href="https://linkedin.com/in/uremsancaktutan" target="blank"><img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="30" height="30"> </a>
 
 <a href="https://x.com/uremifelse" target="blank"><img alt="X" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:30px; width:30px" /></a>
 </p> 
@@ -41,15 +41,7 @@ You can find and get in touch with me on below accounts!
 
 <h3>🧩 Databases & Tools:</h3>
 
-<p>
-<a href="https://www.
 
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs) 
 
 ## 💼 Job
 
