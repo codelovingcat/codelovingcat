@@ -2,7 +2,7 @@
 ### 
 
 🎯 I am Ürem from Turkey. I live in İstanbul — a historical and very beautiful city.
-I have been working as a Full Stack Software Developer for about 4+ years.
+<p>I have been working as a Full Stack Software Developer for about 4+ years.</p>
 I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
 
 
