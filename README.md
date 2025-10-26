@@ -1,8 +1,10 @@
-<h2> Hi there, I'm Ürem <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there.  
+### 
+<h2> Hi there, I'm Ürem Sancaktutan 
 
 <img align='right' src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif" width="200" height="150" alt="Sublime's custom image"/>
 
-<p><em>🎯 I am Ürem from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
+<p><em> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> I am Ürem from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
 I have been working as a <b>Software Developer</b> for about 3 years.  
 I focus on learning while developing real-world projects 🚀👩🏼‍💻</em></p>
 
