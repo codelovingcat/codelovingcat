@@ -110,9 +110,13 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
   </tr>
  <tr>
     <td colspan="2" align="center">
+     |GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![Ürem's github stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/codelovingcat/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=tokyonight)](https://github.com/codelovingcat/github-readme-stats)|
+|![👀 Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Visitors&color=ff69b4&style=flat-square)| |
+
      <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=✨ Profile Views ✨&color=ff69b4&style=flat" alt="Profile Views"/>
- ![Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Profile%20views&color=ff69b4&style=flat)
+  
 
 </p>
     </td>
