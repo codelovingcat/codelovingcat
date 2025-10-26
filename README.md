@@ -92,6 +92,27 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 ##
 
 📈 GitHub Stats (colorful & dynamic)
+## 🌟 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=tokyonight&hide_border=true" alt="Ürem's GitHub Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin&hide_border=true" alt="GitHub Streak" width="800"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=✨ Profile Views ✨&color=ff69b4&style=flat" alt="Profile Views"/>
+</p>
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
