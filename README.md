@@ -33,26 +33,18 @@ You can find and get in touch with me on below accounts!
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+## 
+<h3>🧩 Databases & Tools:</h3>
+<img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" width="30" height="30">
 <img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" width="30" height="30">
 <img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" width="30" height="30">
 
-            
-       
-</p>
-
-
-
-## 
-<h3>🧩 Databases & Tools:</h3>
-<img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-
-
-
-**codelovingcat/codelovingcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+##
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
