@@ -29,11 +29,12 @@ You can find and get in touch with me on below accounts!
 <img src="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png" alt=".NetCore" width="40" height="40">&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png" width="40" height="40" alt="CSharp">  
 <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.w3schools.com/css/" target="_blank"><img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+
   
 </p>
 
@@ -46,7 +47,8 @@ You can find and get in touch with me on below accounts!
 <img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" alt="VSCode" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" alt="git" width="40" height="40">&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" alt="tfs" width="40" height="40">&nbsp;&nbsp;&nbsp;
-
+<a href="https://www.w3schools.com/css/" target="_blank"><img alt="PostMan" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img alt="Docker"  src="https://raw.githubusercontent.com/devicons/devicon/master/icon/docker/docker-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ##
@@ -64,16 +66,6 @@ You can find and get in touch with me on below accounts!
 -->
 ******************************************************************
 
-
-
-✨ About Me
-A passionate and futuristic developer who blends creativity with logic.  
-Confident, analytical, yet creative — I balance logic with intuition to build clean, efficient, and delightful software.  
-Currently exploring CMS development, AI applications, and automation testing.  
-Loves yoga 🧘‍♀️, cats 🐾, and Rize tea 🫖.
-
----
-
 💻 Tech Stack
 
 ### 💫 Languages & Front-End
@@ -85,21 +77,21 @@ C#, JavaScript, Python, jQuery, CSS, React
 ### 🧰 Databases & Tools
 SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 
----
+##
 
 🚀 Highlights
 - Professional: Software Developer & Test Automation Engineer  
 - Focus: CMS-based projects, test automation, and AI-powered features  
 - Approach: Clean code, pragmatic design, automated quality
 
----
+##
 
 📦 Projects (placeholders — will update later)
 - CMS Project (example) — https://github.com/codelovingcat/cms-project
 - Automation Suite (example) — https://github.com/codelovingcat/automation-suite
 - AI Experiments (example) — https://github.com/codelovingcat/ai-experiments
 
----
+##
 
 📈 GitHub Stats (colorful & dynamic)
 
@@ -110,7 +102,7 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 Commit activity (visual):
 ![Commit Activity Graph](https://activity-graph.herokuapp.com/graph?username=codelovingcat&theme=react-dark)
 
----
+##
 
 🌈 Fun Facts
 “Code with logic, dream with imagination, and always stay curious.” ✨  
@@ -119,7 +111,7 @@ Commit activity (visual):
 - 🫖 Big fan of Rize tea — my favorite coding fuel  
 - 🐱 Cat lover and tiny code muse
 
----
+##
 
 📫 Let’s connect
 Thanks for stopping by! Let’s connect and build something awesome together. 🌟
