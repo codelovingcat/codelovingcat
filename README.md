@@ -46,10 +46,9 @@ You can find and get in touch with me on below accounts!
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="Docker"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" alt="VS" width="40" height="40">&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" alt="VSCode" width="40" height="40">
-
+<a href="https://www.w3schools.com/css/" target="_blank"><img alt="gitHub"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" alt="tfs" width="40" height="40">&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="git"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="gitHub"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="PostMan" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
