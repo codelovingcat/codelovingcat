@@ -1,3 +1,57 @@
+<h2> Hi there, I'm Ürem 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<p><em>🎯 I am Ürem from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
+I have been working as a <b>Software Developer</b> for about 3 years.  
+I focus on learning while developing real-world projects 🚀👩🏼‍💻</em></p>
+
+---
+
+<h3>🌐 Connect with me:</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/urem/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height:40px; width:40px" /></a>&nbsp; &nbsp;
+<a href="https://www.instagram.com/urem.codes/" target="blank"><img alt="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:40px; width:40px" /></a>&nbsp; 
+&nbsp; 
+<a href="https://medium.com/@urem" target="blank"><img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:40px; width:40px" /></a>&nbsp; 
+&nbsp; 
+<a href="https://stackoverflow.com/users/urem" target="blank"><img alt="Stack Overflow" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" style="height:40px; width:40px" /></a>&nbsp; 
+&nbsp; 
+<a href="https://www.hackerrank.com/urem" target="blank"><img alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" style="height:40px; width:40px" /></a>
+</p> 
+
+---
+
+<h3>🧠 Languages & Frameworks:</h3>
+
+<p>
+<a href="https://www.java.com" target="_blank"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/" target="_blank"><img alt=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
+<h3>🧩 Databases & Tools:</h3>
+
+<p>
+<a href="https://www.
+
+
+
+
+
+
+
+
+
+
+
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there.  
 ### 
 
