@@ -5,12 +5,8 @@
 <p>I have been working as a Full Stack Software Developer for about 4+ years.</p>
 I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
 
+<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="200" height="100 alt="Sublime's custom image"/> 
 
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif?raw=true"  width="300" height="200 alt="Sublime's custom image"/> 
-</p> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelovingcat&hide=contribs,prs) 
 
