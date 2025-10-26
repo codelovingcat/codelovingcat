@@ -38,12 +38,14 @@ You can find and get in touch with me on below accounts!
 
 ## 
 <h3>🧩 Databases & Tools:</h3>
+<p>
 <img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" width="40" height="40">
-<img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" alt="VS" width="30" height="30">&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" alt="VSCode" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" alt="git" width="30" height="30">&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" alt="tfs" width="40" height="40">&nbsp;&nbsp;&nbsp;
 
+</p>
 ##
 Here are some ideas to get you started:
 
