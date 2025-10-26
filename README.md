@@ -33,56 +33,20 @@ You can find and get in touch with me on below accounts!
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" width="30" height="30">
 
-
-
-
-
-      <img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" width="30" height="30">    <img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" width="40" height="40"> 
+            
+       
 </p>
 
-<img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" width="30" height="30">
+
 
 ## 
 <h3>🧩 Databases & Tools:</h3>
-<img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
-
-
-## 💼 Job
-
-I'm working as a Software Developer
-
-
-
-## 🧠 Know / Using
-<img src="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/36550960/107997731-2e055b00-6fec-11eb-949f-030fce54fa80.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/36550960/107997932-ab30d000-6fec-11eb-8ebc-84741334179b.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/36550960/107998050-f0550200-6fec-11eb-850a-49a27e573805.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/36550960/107998536-0adbab00-6fee-11eb-95cc-e75c9e11d1d4.png" width="40" height="30">  <img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/36550960/107999241-a15c9c00-6fef-11eb-9913-f3bff6046c03.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" width="40" height="30"> 
-
-
-
-
- ## 📚 Learning
-<img src="https://user-images.githubusercontent.com/36550960/107996818-f2699180-6fe9-11eb-87ff-30e9817c995f.png" width="30" height="30">Angular 
-
-
-
-<!--[]
-
-<a href="https://github.com/codelovingcat?tab=followers">
-        <img alt="github" src="https://camo.githubusercontent.com/e5ad1e0feaf68408b454034b196df944f1c62f214655c5285002aaa3acfa03d4/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f756e643366696e65642d763031643f7374796c653d736f6369616c" data-canonical-src="https://github/codelovingcat?tab=followers?style=social" style="max-width:100%;">
-    </a>
-    
-
-
-<a href="https://linkedin.com/in/uremsancaktutan" rel="nofollow">
-        <img alt="linkedin" src="https://camo.githubusercontent.com/adc607d5dbbe1c9ae137b3d843d842c1e49e07548fac339b01fe9c2b09fa0c65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d677265793f6c6f676f3d6c696e6b6564696e267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" style="max-width:100%;">
-    </a>
-
-    
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/36550960/108242951-34174b00-7156-11eb-8d08-851cb10ff56c.gif?raw=true"  width="300" height="300  image"/> 
-</p>
-
+<img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>&nbsp;&nbsp;&nbsp;
 
 
 
