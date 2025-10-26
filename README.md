@@ -16,10 +16,10 @@ You can find and get in touch with me on below accounts!
 
 <p>
  
-<a href="https://uremsancaktutan.medium.com" target="blank"><img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:40px; width:40px" /></a>
-<a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" style="height:40px; width:40px" /></a>
-<a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" style="height:40px; width:40px" /></a>
-<a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" style="height:40px; width:40px" /></a>
+<a href="https://uremsancaktutan.medium.com" target="blank"><img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:20px; width:20px" /></a>
+<a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" style="height:20px; width:20px" /></a>
+<a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" style="height:20px; width:20px" /></a>
+<a href="https://x.com/uremifelse" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" style="height:20px; width:20px" /></a>
 </p> 
 
 ##
