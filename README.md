@@ -4,9 +4,9 @@
 
 <p><em> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I am Ürem Sancaktutan from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
 <p>I have been working as a <b>Full Stack Software Developer</b> for about 4+ years.  
-<p>I focus on learning while developing real-world projects 🚀👩🏼‍💻 alt="Sublime's </em></p>
+<p>I focus on learning while developing real-world projects 🚀👩🏼‍💻 </em></p>
 
-<hr>
+##
 
 <h3>🌐 Connect with me:</h3>
 
@@ -42,22 +42,6 @@
 <p>
 <a href="https://www.
 
-
-
-
-
-
-
-
-
-
-
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there.  
-### 
-
-🎯 I am Ürem from Turkey. I live in İstanbul — a historical and very beautiful city.
-<p>I have been working as a Full Stack Software Developer for about 4+ years.</p>
-I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
 
 
 
