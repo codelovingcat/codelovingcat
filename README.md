@@ -5,7 +5,7 @@
 <p>I have been working as a Full Stack Software Developer for about 4+ years.</p>
 I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
 
-<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif" width="200" height="50" alt="Sublime's custom image" />
+<img src="https://user-images.githubusercontent.com/36550960/107927036-222f7f80-6f7f-11eb-9b97-b51bf37f4984.gif" width="200" height="150" alt="Sublime's custom image" />
 
 
 
