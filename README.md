@@ -1,8 +1,9 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there.  
-### 🎯 I am Ürem from Turkey. I live in İstanbul is a historical and very beautiful city.
-I have been working as a Software Developer for about 3 years.
-I focus on learning while working on projects.🚀 👨🏾‍🚀  👩🏼‍💻
+### 
 
+🎯 I am Ürem from Turkey. I live in İstanbul — a historical and very beautiful city.
+I have been working as a Full Stack Software Developer for about 4+ years.
+I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
 
 
 
@@ -99,16 +100,6 @@ Here are some ideas to get you started:
 ******************************************************************
 
 
-
-
-
-
-# Hi there 👋
-🎯 I am Ürem from Turkey. I live in İstanbul — a historical and very beautiful city.  
-I have been working as a Software Developer for about 3 years.  
-I focus on learning while working on projects. 🚀👨🏾‍🚀👩🏼‍💻
-
----
 
 ✨ About Me
 A passionate and futuristic developer who blends creativity with logic.  
