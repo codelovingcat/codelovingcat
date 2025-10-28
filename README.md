@@ -105,7 +105,7 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin&hide_border=true" alt="GitHub Streak" width="450"/>
+    <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelovingcat&theme=catppuccin&hide_border=true" alt="GitHub Streak" width="450"/> -->
     </td>
    <td align="center">
        <p>
