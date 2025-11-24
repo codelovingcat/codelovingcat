@@ -105,7 +105,7 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
   </tr>
   <tr>
     <td align="center">
-     
+     </td>
     </td>
    <td align="center">
        <p>
