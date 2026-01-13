@@ -116,8 +116,12 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 </p>
     </td>
   </tr>
- 
+
 </table>
+
+## 🐍 Snake Animation
+
+<img src="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" alt="Snake animation" />
 
 
 ##
