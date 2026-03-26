@@ -17,6 +17,25 @@ jobs:
     timeout-minutes: 5
 
     steps:
+    <<<<<<< codex/fix-errors-when-renaming-snake.yml-07p4u0
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=%23ff0054&color_dots=%23ebedf0,%23c7f9cc,%2387f5b5,%232ec4b6,%2300899b
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23ffe600&color_dots=%230d1117,%230066d6,%2300b4d8,%239b5de5,%23f15bb5
+
+      - name: Push snake assets to output branch
+=======
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: Push snake.svg to output branch
+>>>>>>> main
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
