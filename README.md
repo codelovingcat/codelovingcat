@@ -121,7 +121,11 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
 
 ## 🐍 Snake Animation
 
-<img src="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" alt="Snake animation that grows by eating commits" />
+</picture>
 
 
 ##
