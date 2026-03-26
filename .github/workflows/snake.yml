@@ -17,15 +17,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-light&color_snake=%23ff4d6d&color_dots=%23ebedf0,%23ffd6a5,%23ffadad,%23ff8fab,%23fb6f92
-            dist/snake-dark.svg?palette=github-dark&color_snake=%23ff9e00&color_dots=%2316101d,%23311b3f,%23512b58,%2371346e,%23a13d63
 
-      - name: Push snake assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
