@@ -33,7 +33,6 @@ You can find and get in touch with me on below accounts!
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/36550960/108389598-7e610080-7218-11eb-9bdd-a70cd04a24c5.png" width="40" height="40"></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>
-
   
 </p>
 
@@ -49,7 +48,6 @@ You can find and get in touch with me on below accounts!
 <img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" alt="tfs" width="40" height="40">
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="git"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" style="height:40px; width:40px" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="PostMan" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" style="height:50px; width:50px" /></a>
-
 </p>
 
 ##
