@@ -2,7 +2,7 @@
 ### 
 
 
-<p><em> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I am Ürem Sancaktutan from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
+<p><em>  I am Ürem Sancaktutan from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
 <p>I have been working as a <b>Full Stack Software Developer</b> for about 4+ years.  
 <p>I focus on learning while developing real-world projects 🚀👩🏼‍💻 </em></p>
 
