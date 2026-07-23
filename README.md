@@ -3,7 +3,7 @@
 <p><em>  I am Ürem Sancaktutan from Turkey. I live in <b>Istanbul</b> — a historical and vibrant city that inspires creativity.  
 <p>I have been working as a <b>Full Stack Software Developer</b> for about 5+ years.  
 <p>I focus on learning while developing real-world projects 🚀👩🏼‍💻 </em></p>
-##
+
 <h3>🌐 Connect with me:</h3>
  📫 How to reach me
 You can find and get in touch with me on below accounts!
@@ -11,7 +11,7 @@ You can find and get in touch with me on below accounts!
  <a href="https://uremsancaktutan.medium.com" target="blank">
 <img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:30px; width:30px" /></a><a href="https://linkedin.com/in/uremsancaktutan" target="blank"><img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="30" height="30"></a><a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" style="height:30px; width:30px" /></a><a href="https://x.com/uremifelse" target="blank"><img alt="X" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:30px; width:30px" /></a>
 </p>
-##
+
 <h3>🧠 Languages & Frameworks:</h3>
 <p>
  <img src="https://user-images.githubusercontent.com/36550960/107997731-2e055b00-6fec-11eb-949f-030fce54fa80.png" alt="DotNet" width="40" height="40">
@@ -24,7 +24,7 @@ You can find and get in touch with me on below accounts!
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:40px; width:40px" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px; width:40px" /></a>
 </p>
-## 
+
 <h3>🧩 Databases & Tools:</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>
@@ -36,7 +36,7 @@ You can find and get in touch with me on below accounts!
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="git"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" style="height:40px; width:40px" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="PostMan" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" style="height:50px; width:50px" /></a>
 </p>
-##
+
 ✨ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -46,7 +46,7 @@ You can find and get in touch with me on below accounts!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-##
+
 💻 Tech Stack
 
 ### 💫 Languages & Front-End
@@ -57,13 +57,13 @@ C#, JavaScript, Python, jQuery, CSS, React
 
 ### 🧰 Databases & Tools
 SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
-##
+
 🚀 Highlights
-##
+
 📦 Projects (placeholders — will update later)
-##
+
 📈 GitHub Stats (colorful & dynamic)
-## 🌟 GitHub Stats
+ 🌟 GitHub Stats
 <table>
   <tr>
     <td align="center">
@@ -88,16 +88,16 @@ SQL, MongoDB, Docker, Postman, Git, GitHub, TFS
   </tr>
 </table>
 
-## 🐍 Snake Animation
+ 🐍 Snake Animation
 <img src="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" alt="Snake animation" />
-##
+
 🌈 Fun Facts
 “Code with logic, dream with imagination, and always stay curious.” ✨  
 - 🧘‍♀️ Yoga keeps my focus and balance  
 - 🚀 I love building futuristic ideas and experimenting with new tech  
 - 🫖 Big fan of Rize tea — my favorite coding fuel  
 - 🐱 Cat lover and tiny code muse
-##
+
 📫 Let’s connect
 Thanks for stopping by! Let’s connect and build something awesome together. 🌟
 
