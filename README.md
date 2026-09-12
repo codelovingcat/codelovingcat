@@ -13,8 +13,10 @@ You can find and get in touch with me on below accounts!
 </p>
 
 <h3>🧠 Languages & Frameworks:</h3>
-### 💻 Languages & Frameworks
+
 <p>
+### 💻 Languages & Frameworks
+ 
  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 
  
@@ -24,6 +26,7 @@ You can find and get in touch with me on below accounts!
 
 <p>
  ### 🗄️ Database & Backend
+ 
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
 
 </p>
