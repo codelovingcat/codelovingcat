@@ -24,22 +24,19 @@ You can find and get in touch with me on below accounts!
 ### 🗄️ Database & Backend
 <p>
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
- 
-<img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="Docker"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="height:40px; width:40px" /></a>
-<img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" alt="VS" width="40" height="40">
-<img src="https://user-images.githubusercontent.com/36550960/107997991-cb608f00-6fec-11eb-8ffe-e330c6406da8.png" alt="VSCode" width="40" height="40">
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="gitHub"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="height:40px; width:40px" /></a>
-<img src="https://user-images.githubusercontent.com/36550960/108389828-b700da00-7218-11eb-869b-18355159edc9.png" alt="tfs" width="40" height="40">
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="git"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" style="height:40px; width:40px" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="PostMan" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" style="height:50px; width:50px" /></a>
+
 </p>
 
 ### ⚙️ Tools, Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
 </p>
+<p>
 
+ ### 🤖 AI, Automation & Protocols
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white"> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/MCP-00B8A9?style=flat"> <img src="https://img.shields.io/badge/A2A-2196F3?style=flat"> <img src="https://img.shields.io/badge/ACP-1565C0?style=flat">
+</p>
 
 ✨ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
