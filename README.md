@@ -38,11 +38,14 @@ You can find and get in touch with me on below accounts!
 </p>
 <p>
 
- ### 🤖 AI, Automation & Protocols
+<h4>🤖 AI, Automation & Protocols</h4> 
 
 <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white"> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/MCP-00B8A9?style=flat"> <img src="https://img.shields.io/badge/A2A-2196F3?style=flat"> <img src="https://img.shields.io/badge/ACP-1565C0?style=flat">
 </p>
-
+<p>
+ <h4>🎨 Front-End</h4> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+</p>
 ✨ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
