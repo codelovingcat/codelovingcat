@@ -14,22 +14,19 @@ You can find and get in touch with me on below accounts!
 <a href="https://github.com/USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/USERNAME/">
+<a href="https://www.linkedin.com/in/uremsancaktutan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
-<a href="https://x.com/USERNAME">
+<a href="https://x.com/uremifelse">
   <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white">
 </a>
-<a href="https://medium.com/@USERNAME">
+<a href="https://medium.com/@uremsancaktutan">
   <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:uremsancaktutan@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
 </a>
 
- 
- <a href="https://uremsancaktutan.medium.com" target="blank">
-<img alt="Medium" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:30px; width:30px" /></a><a href="https://linkedin.com/in/uremsancaktutan" target="blank"><img src="https://user-images.githubusercontent.com/36550960/107999423-ff897f00-6fef-11eb-9a06-bbbdea10e238.png" width="30" height="30"></a><a href="https://github.com/codelovingcat/" target="blank"><img alt="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" style="height:30px; width:30px" /></a><a href="https://x.com/uremifelse" target="blank"><img alt="X" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:30px; width:30px" /></a>
 </p>
 
 <p>
