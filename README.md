@@ -14,6 +14,9 @@ You can find and get in touch with me on below accounts!
 
 <h3>🧠 Languages & Frameworks:</h3>
 <p>
+ <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+
+ 
  <img src="https://user-images.githubusercontent.com/36550960/107997731-2e055b00-6fec-11eb-949f-030fce54fa80.png" alt="DotNet" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/36550960/107997079-9ce1b480-6fea-11eb-977e-9ed16387e0fa.png" alt=".NetCore" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/36550960/107998459-d536c200-6fed-11eb-9f8a-946370a0ed61.png" width="40" height="40" alt="CSharp">  
