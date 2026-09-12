@@ -21,6 +21,8 @@ You can find and get in touch with me on below accounts!
 
 <h3>🧩 Databases & Tools:</h3>
 <p>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
+ 
 <img src="https://user-images.githubusercontent.com/36550960/107998967-f0560180-6fee-11eb-8c47-5847d6f507e4.png" alt="Sql" width="40" height="40">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="Docker"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="height:40px; width:40px" /></a>
 <img src="https://user-images.githubusercontent.com/36550960/107999139-6b1f1c80-6fef-11eb-8942-01522e016725.png" alt="VS" width="40" height="40">
