@@ -9,7 +9,9 @@
 
 <h4>🌐 Connect with me:</h4>
  📫 How to reach me
+ 
 You can find and get in touch with me on below accounts!
+
 <p>
 <a href="https://github.com/USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
@@ -51,11 +53,11 @@ You can find and get in touch with me on below accounts!
  
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Katalon%20Studio-6C5CE7?style=flat&logo=katalon&logoColor=white"> <img src="https://img.shields.io/badge/Appium-EE376D?style=flat&logo=appium&logoColor=white">
 </p>
-<p>
 
-<h4>🤖 AI, Automation & Protocols</h4> 
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/MCP-00B8A9?style=flat"> <img src="https://img.shields.io/badge/A2A-2196F3?style=flat"> <img src="https://img.shields.io/badge/ACP-1565C0?style=flat"> <img src="https://img.shields.io/badge/ChatGPT-2F2F2F?style=flat&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white">
-</p>
+<h4>🤖 AI, Automation & Protocols</h4>
+
+<p align="left"><img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/MCP-00B8A9?style=flat"> <img src="https://img.shields.io/badge/A2A-2196F3?style=flat"> <img src="https://img.shields.io/badge/ACP-1565C0?style=flat"> <img src="https://img.shields.io/badge/ChatGPT-2F2F2F?style=flat&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white"></p>
+
 
 <p>
  <h4>🎨 Front-End </h4> 
