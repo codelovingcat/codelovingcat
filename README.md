@@ -56,6 +56,7 @@ You can find and get in touch with me on below accounts!
 <h4>🤖 AI, Automation & Protocols</h4> 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/MCP-00B8A9?style=flat"> <img src="https://img.shields.io/badge/A2A-2196F3?style=flat"> <img src="https://img.shields.io/badge/ACP-1565C0?style=flat"> <img src="https://img.shields.io/badge/ChatGPT-2F2F2F?style=flat&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white">
 </p>
+
 <p>
  <h4>🎨 Front-End </h4> 
 
