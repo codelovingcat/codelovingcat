@@ -69,40 +69,11 @@ You can find and get in touch with me on below accounts!
 📈 GitHub Stats (colorful & dynamic)
  🌟 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=default&hide_border=true" height="180"/>
-
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=default&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=default&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=default&hide_border=true" height="180"/>
-  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=dark&hide_border=true" height="180"/>
+ <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" height="180"/>
 </p>
-</p>
- 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=tokyonight&hide_border=true" alt="Ürem's GitHub Stats" width="450"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     </td>
-    </td>
-   <td align="center">
-       <p>
-
-<!--|![👀 Profile Views](https://komarev.com/ghpvc/?username=codelovingcat&label=Visitors&color=ff69b4&style=flat-square)|-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=codelovingcat)
-
-</p>
-    </td>
-  </tr>
-</table>
 
 
 
