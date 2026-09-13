@@ -66,8 +66,6 @@ You can find and get in touch with me on below accounts!
 
  🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://githubreadmestats.vercel.app/api/toplangs/username=codelovingcat&layout=compact&theme=github_dark&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=dark&hide_border=true" height="180"/>
  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" height="180"/>
 </p>
