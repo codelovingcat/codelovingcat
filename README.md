@@ -66,6 +66,12 @@ You can find and get in touch with me on below accounts!
 
 </p>
 
+<p>
+ <h4>🔄 Methodologies & Practices</h4>
+
+<p align="left"><img src="https://img.shields.io/badge/Agile-2496ED?style=flat"> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat"> <img src="https://img.shields.io/badge/Sprint-6B7280?style=flat"></p>
+</p>
+
  🌟 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=dark&hide_border=true" height="180"/>
