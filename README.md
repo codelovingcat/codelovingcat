@@ -1,4 +1,5 @@
 🐍 Snake Animation
+<img src="https://raw.githubusercontent.com/codelovingcat/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
 <img src="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" alt="Snake animation" />
 
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there.  
