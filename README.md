@@ -1,7 +1,6 @@
+🐍 Snake Animation
 
 <p align="center">
- 🐍 Snake Animation
- 
 <img src="https://raw.githubusercontent.com/codelovingcat/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
  </p>
 
