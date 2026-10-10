@@ -85,9 +85,12 @@ You can find and get in touch with me on below accounts!
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&langs_count=6&card_width=440&hide_border=true&bg_color=1A1023&title_color=E879F9&text_color=F5D0FE&icon_color=F0ABFC&border_color=C026D3" width="450" alt="Most Used Languages" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codelovingcat&theme=nord_dark&utcOffset=3&title_color=C4B5FD&text_color=7DD3FC&bg_color=0D1716&border_color=0D1716" width="48%" alt="GitHub Productive Time" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codelovingcat&theme=nord_dark&utcOffset=3&title_color=C4B5FD&text_color=7DD3FC&bg_color=0D1716&border_color=0D1716" height="150" width="48%" alt="GitHub Productive Time" />
   
 </div>
+<img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" alt="GitHub Followers" align="middle" />
 <div clear="left"></div>
 
 
@@ -104,8 +107,6 @@ You can find and get in touch with me on below accounts!
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codelovingcat&theme=nord_dark&title_color=C4B5FD&text_color=7DD3FC&bg_color=0D1716&border_color=0D1716" width="96%" alt="GitHub Profile Summary" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codelovingcat&theme=nord_dark&utcOffset=3&title_color=C4B5FD&text_color=7DD3FC&bg_color=0D1716&border_color=0D1716" width="48%" alt="GitHub Productive Time" />
-</p>
+
 
 <!-- Tip: Replace placeholder project links with real repos. You can also change themes in the stat images (tokyonight, radical, catppuccin) to match your preferred palette. -->
