@@ -78,27 +78,23 @@ You can find and get in touch with me on below accounts!
 </p>
 
  🌟 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" />
-</p>
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" />
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" />
+      <br /><br />
+      <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" alt="GitHub Followers" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codelovingcat&hide_border=true&background=0D1716&ring=2DD4BF&fire=2DD4BF&currStreakLabel=86EFAC&currStreakNum=FDE047&sideLabels=86EFAC&sideNums=7DD3FC&dates=FDBA74&stroke=2DD4BF" height="180" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&langs_count=6&hide_border=true&bg_color=1A1023&title_color=E879F9&text_color=F5D0FE&icon_color=F0ABFC&border_color=C026D3" height="180" alt="Most Used Languages" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" alt="GitHub Followers" />
-</p>
-<p align="center">
-  <a href="https://github.com/codelovingcat"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/uremsancaktutan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@uremsancaktutan"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://x.com/uremifelse"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:uremsancaktutan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-
 
 📫 Let’s connect
 Thanks for stopping by! Let’s connect and build something awesome together. 🌟
