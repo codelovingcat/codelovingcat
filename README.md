@@ -95,7 +95,7 @@ You can find and get in touch with me on below accounts!
 
 
 
-## 🏆 GitHub Trophies
+<h4> ## 🏆 GitHub Trophies </h4>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
