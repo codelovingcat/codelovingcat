@@ -87,6 +87,12 @@ You can find and get in touch with me on below accounts!
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Connect%20with%20Me%20%3A3-C4B5FD?style=flat&labelColor=0D1716" alt="Connect with Me :3" />
+  <a href="https://www.linkedin.com/in/uremsancaktutan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/uremifelse"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@uremsancaktutan"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:uremsancaktutan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 
