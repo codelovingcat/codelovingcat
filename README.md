@@ -96,7 +96,7 @@ You can find and get in touch with me on below accounts!
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codelovingcat&theme=nord&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+    <img src="assets/github-trophies.svg" alt="GitHub Trophies" />
   </a>
 </p>
 
