@@ -90,6 +90,13 @@ You can find and get in touch with me on below accounts!
   &nbsp;
   <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" alt="GitHub Followers" />
 </p>
+<p align="center">
+  <a href="https://github.com/codelovingcat"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/uremsancaktutan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@uremsancaktutan"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/uremifelse"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:uremsancaktutan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 
 
