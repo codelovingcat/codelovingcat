@@ -84,7 +84,7 @@ You can find and get in touch with me on below accounts!
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&langs_count=6&card_width=440&hide_border=true&bg_color=1A1023&title_color=E879F9&text_color=F5D0FE&icon_color=F0ABFC&border_color=C026D3" width="49%" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&langs_count=6&card_width=440&hide_border=true&bg_color=1A1023&title_color=E879F9&text_color=F5D0FE&icon_color=F0ABFC&border_color=C026D3" width="60%" height="150" alt="Most Used Languages" />
    
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" align="center" alt="Total Visitors" />
