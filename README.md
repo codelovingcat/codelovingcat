@@ -89,9 +89,9 @@ You can find and get in touch with me on below accounts!
   
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" align="center" alt="Total Visitors" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" align="center" alt="GitHub Followers" />
 </p>
 
 
