@@ -1,10 +1,8 @@
 🐍 Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/codelovingcat/codelovingcat/output/snake.svg" alt="Snake animation that grows by eating commits" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codelovingcat/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
+</p>
 
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there.  
 ### 
@@ -77,7 +75,7 @@ You can find and get in touch with me on below accounts!
 <p align="left"><img src="https://img.shields.io/badge/Agile-2496ED?style=flat"> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat"> <img src="https://img.shields.io/badge/Sprint-6B7280?style=flat"></p>
 </p>
 
- 🌟 GitHub Stats
+ 💻 Coding Dashboard
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" />
