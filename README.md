@@ -90,8 +90,6 @@ You can find and get in touch with me on below accounts!
   <img src="https://img.shields.io/github/followers/codelovingcat?label=GitHub%20Followers&style=flat&color=C4B5FD&labelColor=0D1716" alt="GitHub Followers" align="middle" />
 </div>
 <div clear="left"></div>
-&nbsp;&nbsp;
-📫 Let’s connect
-Thanks for stopping by! Let’s connect and build something awesome together. 🌟
+
 
 <!-- Tip: Replace placeholder project links with real repos. You can also change themes in the stat images (tokyonight, radical, catppuccin) to match your preferred palette. -->
