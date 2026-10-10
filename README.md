@@ -75,34 +75,7 @@ You can find and get in touch with me on below accounts!
 <p align="left"><img src="https://img.shields.io/badge/Agile-2496ED?style=flat"> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat"> <img src="https://img.shields.io/badge/Sprint-6B7280?style=flat"></p>
 </p>
 
- ## 🌸 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/codelovingcat/WolfCMS"><img src="https://img.shields.io/badge/WolfCMS-C77D9A?style=flat-square&logo=github&logoColor=white" alt="WolfCMS" /></a>
-  <sub> .NET CMS and catalog project</sub>
-</p>
-<p align="left">
-  <a href="https://github.com/codelovingcat/TaskFlow"><img src="https://img.shields.io/badge/TaskFlow-C77D9A?style=flat-square&logo=github&logoColor=white" alt="TaskFlow" /></a>
-  <sub> React + TypeScript task manager with Kanban and Supabase</sub>
-</p>
-<p align="left">
-  <a href="https://github.com/codelovingcat/AI-Powered-Real-Time-Conversation-Assistant"><img src="https://img.shields.io/badge/Conversa-C77D9A?style=flat-square&logo=github&logoColor=white" alt="Conversa" /></a>
-  <sub> AI-assisted support for real-time foreign-language conversations</sub>
-</p>
-<p align="left">
-  <a href="https://github.com/codelovingcat/chatbot"><img src="https://img.shields.io/badge/AI%20Chatbot-C77D9A?style=flat-square&logo=github&logoColor=white" alt="AI Chatbot" /></a>
-  <sub> Python + React chatbot concept for mentoring and course guidance</sub>
-</p>
-<p align="left">
-  <a href="https://github.com/codelovingcat/My-Iris"><img src="https://img.shields.io/badge/My%20Iris-C77D9A?style=flat-square&logo=github&logoColor=white" alt="My Iris" /></a>
-  <sub> Interactive visual experiment featuring expressive green eyes</sub>
-</p>
-<p align="left">
-  <a href="https://github.com/codelovingcat/GitHub-Achievements-TR"><img src="https://img.shields.io/badge/GitHub%20Achievements%20TR-C77D9A?style=flat-square&logo=github&logoColor=white" alt="GitHub Achievements TR" /></a>
-  <sub> Turkish guide to GitHub profile achievements</sub>
-</p>
-
-💻 Coding Dashboard
+ 💻 Coding Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" align="middle" />
