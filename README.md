@@ -78,7 +78,7 @@ You can find and get in touch with me on below accounts!
  💻 Coding Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" align="middle" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="150" alt="GitHub Stats: commits, pull requests, issues and rank" align="middle" />
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" align="middle" />
   &nbsp;
@@ -86,7 +86,7 @@ You can find and get in touch with me on below accounts!
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codelovingcat&hide_border=true&background=0D1716&ring=2DD4BF&fire=2DD4BF&currStreakLabel=86EFAC&currStreakNum=FDE047&sideLabels=86EFAC&sideNums=7DD3FC&dates=FDBA74&stroke=2DD4BF" height="180" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=codelovingcat&hide_border=true&background=0D1716&ring=2DD4BF&fire=2DD4BF&currStreakLabel=86EFAC&currStreakNum=FDE047&sideLabels=86EFAC&sideNums=7DD3FC&dates=FDBA74&stroke=2DD4BF" height="150" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&langs_count=6&hide_border=true&bg_color=1A1023&title_color=E879F9&text_color=F5D0FE&icon_color=F0ABFC&border_color=C026D3" height="180" alt="Most Used Languages" />
 </p>
 
