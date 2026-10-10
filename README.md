@@ -79,7 +79,7 @@ You can find and get in touch with me on below accounts!
 
  🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=2DD4BF&icon_color=2DD4BF&text_color=99F6E4" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codelovingcat&custom_title=%C3%9Crem%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1716&title_color=C4B5FD&icon_color=FDE68A&text_color=99F6E4&ring_color=166534" height="180" alt="GitHub Stats: commits, pull requests, issues and rank" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codelovingcat&hide_border=true&background=0D1716&ring=2DD4BF&fire=2DD4BF&currStreakLabel=86EFAC&currStreakNum=FDE047&sideLabels=86EFAC&sideNums=7DD3FC&dates=FDBA74&stroke=2DD4BF" height="180" alt="GitHub Streak Stats" />
