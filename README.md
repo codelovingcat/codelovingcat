@@ -92,4 +92,12 @@ You can find and get in touch with me on below accounts!
 <div clear="left"></div>
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codelovingcat&theme=nord&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <!-- Tip: Replace placeholder project links with real repos. You can also change themes in the stat images (tokyonight, radical, catppuccin) to match your preferred palette. -->
