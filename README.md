@@ -77,8 +77,11 @@ You can find and get in touch with me on below accounts!
 
  🌟 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=dark&hide_border=true" height="180"/>
- <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=codelovingcat&theme=dark&hide_border=true" height="180" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelovingcat&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codelovingcat&label=Total%20Visitors&color=0e75b6&style=flat" alt="Total Visitors" />
 </p>
 
 
