@@ -100,4 +100,13 @@ You can find and get in touch with me on below accounts!
   </a>
 </p>
 
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codelovingcat&theme=nord_dark&title_color=C4B5FD&text_color=7DD3FC&bg_color=0D1716&border_color=0D1716" width="96%" alt="GitHub Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codelovingcat&theme=nord_dark&utcOffset=3&title_color=C4B5FD&text_color=7DD3FC&bg_color=0D1716&border_color=0D1716" width="48%" alt="GitHub Productive Time" />
+</p>
+
 <!-- Tip: Replace placeholder project links with real repos. You can also change themes in the stat images (tokyonight, radical, catppuccin) to match your preferred palette. -->
