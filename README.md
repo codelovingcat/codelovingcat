@@ -1,3 +1,11 @@
+👾 Commit-Man Animation
+
+<p align="center">
+  <a href="https://github.com/codelovingcat/commit-man">
+    <img src="https://raw.githubusercontent.com/codelovingcat/commit-man/output/commit-man.gif" alt="Commit-Man eating the GitHub contribution garden" />
+  </a>
+</p>
+
 🐍 Snake Animation
 
 <p align="center">
