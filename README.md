@@ -1,3 +1,24 @@
+<p align="center">
+  <a href="https://github.com/codelovingcat/terminal-profile">
+    <img src="https://raw.githubusercontent.com/codelovingcat/terminal-profile/main/assets/terminal.svg" alt="Animated terminal profile for Ürem Sancaktutan, highlighting technical interests and featured projects" width="100%" />
+  </a>
+</p>
+
+## Featured projects
+
+- [Conversa](https://github.com/codelovingcat/AI-Powered-Real-Time-Conversation-Assistant) — AI-powered conversation assistant · .NET 10 / React
+- [Backend Safety Kit](https://github.com/codelovingcat/Backend-Safety-Kit) — ASP.NET Core safety and diagnostics toolkit
+
+## Package links
+
+- **BackendSafetyKit.AspNetCore** — ASP.NET Core middleware and service integrations · [source](https://github.com/codelovingcat/Backend-Safety-Kit) · [preview release](https://github.com/codelovingcat/Backend-Safety-Kit/releases/tag/v0.1.0-preview.1) · NuGet listing pending confirmation
+
+## NuGet packages
+
+Browse my published packages on [my NuGet profile](https://www.nuget.org/profiles/Urem).
+
+---
+
 👾 Commit-Man Animation
 
 <p align="center">
