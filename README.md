@@ -13,6 +13,10 @@
 
 - **BackendSafetyKit.AspNetCore** — ASP.NET Core middleware and service integrations · [source](https://github.com/codelovingcat/Backend-Safety-Kit) · [preview release](https://github.com/codelovingcat/Backend-Safety-Kit/releases/tag/v0.1.0-preview.1) · NuGet listing pending confirmation
 
+## NuGet packages
+
+Browse my published packages on [my NuGet profile](https://www.nuget.org/profiles/Urem).
+
 ---
 
 👾 Commit-Man Animation
