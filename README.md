@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/codelovingcat/terminal-profile">
-    <img src="https://raw.githubusercontent.com/codelovingcat/terminal-profile/main/assets/terminal.svg" alt="Animated terminal profile for Ürem Sancaktutan, highlighting technical interests" width="100%" />
+    <img src="https://raw.githubusercontent.com/codelovingcat/terminal-profile/main/assets/terminal.svg" alt="Animated terminal profile for Ürem Sancaktutan" width="100%" />
   </a>
 </p>
 
