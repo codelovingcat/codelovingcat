@@ -25,9 +25,10 @@
 ### 
 <p><em> 
 I'm a Full-Stack Developer with 5+ years of experience building software and turning ideas into real-world solutions.
-For me, coding is more than writing instructions—it's the art of solving problems, connecting ideas, and imagining what could be possible. I'm passionate about technology, fascinated by how things work beneath the surface, and driven by the endless possibilities of what we can build.
-I believe that learning never stops in software development. Every project brings a new question, every challenge opens a new perspective, and every line of code is an opportunity to grow. That's why I love learning through building, exploring new technologies, and continuously refining the way I think and create.
-Curious by nature, analytical in my thinking. Always learning, creating, sharing—and I love coding the future. 🚀👩🏼‍💻 </em></p>
+For me, coding is more than writing instructions—it's the art of solving problems, connecting ideas, and imagining what could be possible. </p>
+<p>I'm passionate about technology, fascinated by how things work beneath the surface, and driven by the endless possibilities of what we can build.</p>
+<p>I believe that learning never stops in software development. Every project brings a new question, every challenge opens a new perspective, and every line of code is an opportunity to grow. That's why I love learning through building, exploring new technologies, and continuously refining the way I think and create.</p>
+<p>Curious by nature, analytical in my thinking. Always learning, creating, sharing—and I love coding the future. 🚀👩🏼‍💻 </em></p>
 
 
 <h4>🌐 Connect with me:</h4>
