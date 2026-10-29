@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/codelovingcat/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
 </p>
 
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there. I'm Ürem Sancaktutan 👩🏻‍💻
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there. I'm Ürem Sancaktutan 👩🏻‍💻 <img src="assets/urem-coding-icon.webp" alt="Ürem coding icon" width="90" />
 ### 
 <p><em> 
 I'm a Full-Stack Developer with 5+ years of experience building software and turning ideas into real-world solutions.
