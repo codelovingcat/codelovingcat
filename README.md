@@ -27,12 +27,9 @@ For me, coding is more than writing instructions—it's the art of solving probl
 <p>I believe that learning never stops in software development. Every project brings a new question, every challenge opens a new perspective, and every line of code is an opportunity to grow. That's why I love learning through building, exploring new technologies, and continuously refining the way I think and create.</p>
 <p>Curious by nature, analytical in my thinking. Always learning, creating, sharing—and I love coding the future. 🚀👩🏼‍💻 </em></p>
 
-
 <h4>🌐 Connect with me:</h4>
  📫 How to reach me
- 
 You can find and get in touch with me on below accounts!
-
 <p>
 <a href="https://github.com/USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
