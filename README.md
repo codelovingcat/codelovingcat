@@ -14,13 +14,10 @@
     <img src="https://raw.githubusercontent.com/codelovingcat/commit-man/output/commit-man.gif" alt="Commit-Man eating the GitHub contribution garden" />
   </a>
 </p>
-
 🐍 Snake Animation
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/codelovingcat/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
 </p>
-
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there. I'm Ürem Sancaktutan <img src="assets/urem-coding-icon.webp" alt="Ürem coding icon" width="90" />
 ### 
 <p><em> 
