@@ -14,50 +14,51 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/codelovingcat/github-snake-remix/output/snake.gif" alt="GitHub contribution snake" />
 </p>
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50px"> Hi there. I'm Ürem Sancaktutan <img src="assets/urem-coding-icon.webp" alt="Ürem coding icon" width="90" />
-### 
-<p><em> 
-I'm a Full-Stack Developer with 5+ years of experience building software and turning ideas into real-world solutions.
-For me, coding is more than writing instructions—it's the art of solving problems, connecting ideas, and imagining what could be possible. </p>
-<p>I'm passionate about technology, fascinated by how things work beneath the surface, and driven by the endless possibilities of what we can build.</p>
-<p>I believe that learning never stops in software development. Every project brings a new question, every challenge opens a new perspective, and every line of code is an opportunity to grow. That's why I love learning through building, exploring new technologies, and continuously refining the way I think and create.</p>
-<p>Curious by nature, analytical in my thinking. Always learning, creating, sharing—and I love coding the future. 🚀👩🏼‍💻 </em></p>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand" width="45" /> Hi there, I'm Ürem Sancaktutan <img src="assets/urem-coding-icon.webp" alt="Ürem coding icon" width="65" /></h1>
+
+<p><em>
+I'm a Full-Stack Developer with 5+ years of experience building software and turning ideas into real-world solutions. For me, coding is more than writing instructions—it's the art of solving problems, connecting ideas, and imagining what could be possible.</em></p>
+<p><em>I'm passionate about technology, fascinated by how things work beneath the surface, and driven by the endless possibilities of what we can build.</em></p>
+<p><em>I believe that learning never stops in software development. Every project brings a new question, every challenge opens a new perspective, and every line of code is an opportunity to grow. That's why I love learning through building, exploring new technologies, and continuously refining the way I think and create.</em></p>
+<p><em>Curious by nature, analytical in my thinking. Always learning, creating, sharing—and I love coding the future. 🚀👩🏼‍💻 </em></p>
 
 <h4>🌐 Connect with me:</h4>
- 📫 How to reach me
-You can find and get in touch with me on below accounts!
+
+<p>📫 How to reach me</p>
+<p>You can find and get in touch with me on the accounts below!</p>
+
 <p>
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/codelovingcat">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/uremsancaktutan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://x.com/uremifelse">
   <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://medium.com/@uremsancaktutan">
   <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:uremsancaktutan@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
 </a>
 </p>
-<p>
 <h4>💻 Languages & Frameworks</h4>
+<p>
  
  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 </p>
-<p>
 <h4>🗄️ Database & Backend</h4>
+<p>
  
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"> <img src="https://camo.githubusercontent.com/9b8cccc0e43f2fe6bd6cfe551702ea3f9e88a5ec8669112f91f360da229ff8ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030353537313f7374796c653d666c6174266c6f676f3d66617374617069" alt="FastAPI" data-canonical-src="https://img.shields.io/badge/FastAPI-005571?style=flat&amp;logo=fastapi" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0f9296a3e5b7bfb8e4cff8a5714966b6a0f3c8c0d4eb4b469841c8dcd0e356cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532333030302e7376673f7374796c653d666c6174266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465">
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
 
 </p>
 
 
-<p>
- <h4>⚙️ Tools, Cloud & DevOps</h4> 
+<h4>⚙️ Tools, Cloud & DevOps</h4>
+<p> 
  
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Katalon%20Studio-6C5CE7?style=flat&logo=katalon&logoColor=white"> <img src="https://img.shields.io/badge/Appium-EE376D?style=flat&logo=appium&logoColor=white">
 </p>
@@ -67,18 +68,16 @@ You can find and get in touch with me on below accounts!
 <p align="left"><img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"> <img src="https://img.shields.io/badge/MCP-00B8A9?style=flat"> <img src="https://img.shields.io/badge/A2A-2196F3?style=flat"> <img src="https://img.shields.io/badge/ACP-1565C0?style=flat"> <img src="https://img.shields.io/badge/ChatGPT-2F2F2F?style=flat&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white"></p>
 
 
-<p>
- <h4>🎨 Front-End </h4> 
+<h4>🎨 Front-End </h4>
+<p> 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F54A2E?style=flat&logo=swift&logoColor=white">
 
 </p>
 
-<p>
- <h4>🔄 Methodologies & Practices</h4>
+<h4>🔄 Methodologies & Practices</h4>
 
 <p align="left"><img src="https://img.shields.io/badge/Agile-2496ED?style=flat"> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat"> <img src="https://img.shields.io/badge/Sprint-6B7280?style=flat"></p>
-</p>
 
  💻 Coding Dashboard
 
@@ -100,7 +99,7 @@ You can find and get in touch with me on below accounts!
 
 
 
-<h4> ## 🏆 GitHub Trophies </h4>
+<h4>🏆 GitHub Trophies</h4>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
